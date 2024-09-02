@@ -1,7 +1,7 @@
 <html>
 <body bgcolor=lightpink>
 
-<h1><b><font color='green'> Welcome to Ashok IT - Software Training Institute <font></h1></b>
+<h1><b><font color='orange'> Welcome to Ashok IT - Software Training Institute <font></h1></b>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
