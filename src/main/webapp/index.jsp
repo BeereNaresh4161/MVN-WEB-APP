@@ -1,11 +1,7 @@
 <html>
 <body>
-<h1>DEVOPS</h1>
-<h1><marquee behavior="scroll" direction="up" scrollamount="1">DevOps Tools</marquee></h1>
-<h1><marquee behavior="scroll" direction="right" scrollamount="12">Docker</marquee></h1>
-<h1><marquee behavior="scroll" direction="left" scrollamount="20">Jenkins</marquee></h1>
-<h1><marquee behavior="scroll" direction="right" scrollamount="50">Git</marquee></h1>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+
+<h1><b><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1></b>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
