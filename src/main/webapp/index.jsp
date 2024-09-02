@@ -1,5 +1,5 @@
 <html>
-<body background="C:\Users\Naresh\Desktop\ashok.jpg">
+<body bgcolor=lightblue>
 
 <h1><b><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1></b>
 
