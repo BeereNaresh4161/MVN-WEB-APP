@@ -1,5 +1,5 @@
 <html>
-<body bgcolor=lightgreen>
+<body bgcolor=black>
 
 <h1><b><font color='orange'> Welcome to Ashok IT - Software Training Institute <font></h1></b>
 
